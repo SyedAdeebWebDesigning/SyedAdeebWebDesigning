@@ -7,7 +7,7 @@ Web Developer and Designer
 I am a Web Developer and Web Designer who has been working in the industry for over 3 years. I am passionate about my work and enjoy creating beautiful websites and web applications.
 
 * 🌍  I'm based in Aligarh, IN
-* 🖥️  See my portfolio at [syedadeeb.vercel.app](http://syedadeeb.vercel.app/)
+* 🖥️  See my portfolio at [syedadeeb.vercel.app](http://s-adeeb.vercel.app/)
 * ✉️  You can contact me at [prokximus@gmail.com](mailto:prokximus@gmail.com)
 * 🧠  I'm learning NEXT
 
