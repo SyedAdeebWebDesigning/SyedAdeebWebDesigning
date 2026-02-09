@@ -13,7 +13,7 @@ I am Syed Adeeb, a seasoned full-stack developer specializing in web development
 
 * 🌍  I'm based in Aligarh, IN
 * 🖥️  See my portfolio at [syedadeeb.in](https://syedadeeb.in/)
-* ✉️  You can contact me at [me@syedadeeb.in](mailtome@syedadeeb.in)
+* ✉️  You can contact me at [me@syedadeeb.in](mailto:me@syedadeeb.in)
 * 🧠  I'm learning NEXT
 
 <a href="https://www.github.com/SyedAdeebWebDesigning" target="_blank" rel="noreferrer"><img
