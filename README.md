@@ -12,8 +12,8 @@ Web Developer and Designer
 I am Syed Adeeb, a seasoned full-stack developer specializing in web development since 2020. My focus is on crafting sophisticated and user-centric websites by leveraging my expertise in both front-end and back-end technologies. I am committed to staying updated with the latest advancements in the field to deliver innovative solutions that exceed client expectations.
 
 * 🌍  I'm based in Aligarh, IN
-* 🖥️  See my portfolio at [syedadeeb.vercel.app](http://syedadeeb.vercel.app/)
-* ✉️  You can contact me at [prokximus@gmail.com](mailto:prokximus@gmail.com)
+* 🖥️  See my portfolio at [syedadeeb.in](https://syedadeeb.in/)
+* ✉️  You can contact me at [me@syedadeeb.in](mailtome@syedadeeb.in)
 * 🧠  I'm learning NEXT
 
 <a href="https://www.github.com/SyedAdeebWebDesigning" target="_blank" rel="noreferrer"><img
